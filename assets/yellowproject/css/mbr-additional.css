@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+#header1-1 H1 {
+  font-family: 'Roboto', sans-serif;
+  color: #fac51c;
+  font-size: 36px;
+}
+#header1-1 P {
+  color: #efefef;
+}
+#slider-5 SPAN {
+  color: #faaf40;
+}
+#slider-5 H1 {
+  color: #f7da64;
+}
+#slider-5 P {
+  color: #efefef;
+}
+#content4-11 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#content5-14 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fac51c;
+}
+#content5-14 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-14 .mbr-article {
+  color: #fff;
+}
+#contacts1-18 P {
+  color: #efefef;
+}
+#contacts1-18 B {
+  color: #efefef;
+}
